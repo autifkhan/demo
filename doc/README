@@ -10,5 +10,5 @@ Files:
 
 Makefile:
 
-main.c: too hogh
+main.c: 3 high
 
