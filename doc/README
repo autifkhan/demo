@@ -10,5 +10,7 @@ Files:
 
 Makefile:
 
-main.c: 3 high
+main.c: 2 high
+
+----end of file----
 
